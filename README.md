@@ -2,7 +2,7 @@
 
 #### skills:
 
-- **Languages:** Go, Python, Nim, C, C++, JavaScript, Dart
+- **Languages:** Go, Python, Nim, C, C++, JavaScript, TypeScript, Dart
 - **JS Technologies:** React, Redux, Firebase,
 - **Frameworks:** Flutter
  
@@ -14,3 +14,7 @@
 - **Pizza:** Dominos
 - **Programming Domain:** Backend, Embedded
 - **Anime:** Detective Conan, DBZ
+
+#### someday...
+
+Zig, Rust, OCaml, Elixir 
