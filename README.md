@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-#### Things i like:
+#### some things i like:
 
 - **Distro:** Archlinux (BTW)
 - **Language:** Python, Go, Nim (👑)
