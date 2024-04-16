@@ -10,7 +10,7 @@
 
 - **Distro:** Archlinux (BTW)
 - **Language:** Python, Go, Nim (👑)
-- **Food:** Noodles (Chinese), sub sandwich
+- **Food:** Hakka Noodles, sub sandwich
 - **Pizza:** Dominos
 - **Programming Domain:** Backend, Embedded
 - **Anime:** Detective Conan, DBZ
