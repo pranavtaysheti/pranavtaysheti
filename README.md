@@ -2,7 +2,8 @@
 
 #### skills:
 
-- **Languages:** Go, Python, Nim, C, C++, JavaScript, TypeScript, Dart
+- **Languages Good at:** Go, Python, Nim
+- **Languages Ok at:** JavaScript, TypeScript, C, Dart
 - **JS Technologies:** React, Redux, Firebase,
 - **Frameworks:** Flutter
  
